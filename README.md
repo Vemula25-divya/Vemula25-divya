@@ -13,8 +13,7 @@ Hi there! I'm **Divya Vemula**, a passionate **PhD Research Scholar** specializi
 
 - 💻 **Technical Expertise**:  
   - Programming: Python, R .  
-  - Tools: Rosetta, Docking platforms, ProSA, EMBL-EBI data resources.  
-  - Machine Learning: scikit-learn, TensorFlow, deep learning frameworks.  
+  - Tools: Rosetta, Docking platforms, ProSA, EMBL-EBI data resources.    
   - Version Control: Git & GitHub.  
 
 - 🌟 Fun Fact: I enjoy participating in science writing competitions and connecting with the global research community.🌟
