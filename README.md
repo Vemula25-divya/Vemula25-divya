@@ -12,10 +12,11 @@ Hi there! I'm **Divya Vemula**, a passionate **PhD Research Scholar** specializi
   - Designing and evaluating **novel therapeutic targets** for infectious diseases.  
 
 - 💻 **Technical Expertise**:  
-  - Programming: Python, R, JavaScript.  
+  - Programming: Python, R .  
   - Tools: Rosetta, Docking platforms, ProSA, EMBL-EBI data resources.  
   - Machine Learning: scikit-learn, TensorFlow, deep learning frameworks.  
   - Version Control: Git & GitHub.  
 
-- 🌟 Fun Fact: I enjoy participating in science writing competitions and connecting with the global research community.
-- Feel free to explore my repositories and reach out for collaboration or feedback. Let's build something amazing together! 🌟    
+- 🌟 Fun Fact: I enjoy participating in science writing competitions and connecting with the global research community.🌟
+- 
+- Feel free to explore my repositories and reach out for collaboration or feedback. Let's build something amazing together!     
