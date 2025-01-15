@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋  
 
-<!--
-**Vemula25-divya/Vemula25-divya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Divya Vemula**, a passionate **PhD Research Scholar** specializing in **Pharmacoinformatics** and an avid **coder**, **AI enthusiast**, and **software designer**.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 **Academic Background**:  
+  I hold an M.S. (Pharm) in **Medicinal Chemistry**, focusing on infectious diseases. Currently, I'm diving deep into **antimicrobial resistance (AMR)** and **computational drug discovery** as part of my PhD research.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 **Research Interests**:  
+  - Building AI-driven solutions for complex scientific problems.  
+  - Exploring **multi-omics data integration** for biomedical applications.  
+  - Designing and evaluating **novel therapeutic targets** for infectious diseases.  
+
+- 💻 **Technical Expertise**:  
+  - Programming: Python, R, JavaScript.  
+  - Tools: Rosetta, Docking platforms, ProSA, EMBL-EBI data resources.  
+  - Machine Learning: scikit-learn, TensorFlow, deep learning frameworks.  
+  - Version Control: Git & GitHub.  
+
+- 🌟 Fun Fact: I enjoy participating in science writing competitions and connecting with the global research community.
+- Feel free to explore my repositories and reach out for collaboration or feedback. Let's build something amazing together! 🌟    
