@@ -18,7 +18,6 @@ I am Divya Vemula, a PhD research scholar specializing in pharmacoinformatics wi
 ## 🔬 Research Projects
 1. Identification and Characterization of Virulence Targets in Pseudomonas aeruginosa
 Multi-omics data integration to identify novel virulence-associated, druggable targets in P. aeruginosa.
-
 Use of subtractive proteomics, essentiality, and pathway analyses.
 
 2. Design of a Multi-Epitope Vaccine Against P. aeruginosa
